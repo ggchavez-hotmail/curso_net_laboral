@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "4pA3/NsksAlHukHSnwuZ0CiM0z4SwXIRN1cIl/c2HLPZ3qtDgHLInIBWsnQc1SxESPKe6qkCvHQn5Fjxv+c6MA==",
+  "success": true,
+  "projectFilePath": "C:\\curso-net\\app-db\\app-db.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Gustavo Chavez\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Gustavo Chavez\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

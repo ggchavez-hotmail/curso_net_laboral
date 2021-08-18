@@ -1,0 +1,11 @@
+C:\curso-net\web-api\obj\Release\net5.0\PubTmp\Out\web-api.exe
+C:\curso-net\web-api\obj\Release\net5.0\PubTmp\Out\appsettings.Development.json
+C:\curso-net\web-api\obj\Release\net5.0\PubTmp\Out\appsettings.json
+C:\curso-net\web-api\obj\Release\net5.0\PubTmp\Out\web-api.dll
+C:\curso-net\web-api\obj\Release\net5.0\PubTmp\Out\web-api.deps.json
+C:\curso-net\web-api\obj\Release\net5.0\PubTmp\Out\web-api.runtimeconfig.json
+C:\curso-net\web-api\obj\Release\net5.0\PubTmp\Out\web-api.pdb
+C:\curso-net\web-api\obj\Release\net5.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\curso-net\web-api\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\curso-net\web-api\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\curso-net\web-api\obj\Release\net5.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll

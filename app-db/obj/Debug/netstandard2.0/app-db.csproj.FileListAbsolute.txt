@@ -1,0 +1,7 @@
+C:\curso-net\app-db\bin\Debug\netstandard2.0\app-db.deps.json
+C:\curso-net\app-db\bin\Debug\netstandard2.0\app-db.dacpac
+C:\curso-net\app-db\obj\Debug\netstandard2.0\app-db.csproj.AssemblyReference.cache
+C:\curso-net\app-db\obj\Debug\netstandard2.0\app-db.GeneratedMSBuildEditorConfig.editorconfig
+C:\curso-net\app-db\obj\Debug\netstandard2.0\app-db.AssemblyInfoInputs.cache
+C:\curso-net\app-db\obj\Debug\netstandard2.0\app-db.AssemblyInfo.cs
+C:\curso-net\app-db\obj\Debug\netstandard2.0\app-db.dacpac

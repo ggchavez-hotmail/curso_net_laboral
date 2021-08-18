@@ -1,0 +1,11 @@
+C:\pub\web-api.exe
+C:\pub\appsettings.Development.json
+C:\pub\appsettings.json
+C:\pub\web-api.dll
+C:\pub\web-api.deps.json
+C:\pub\web-api.runtimeconfig.json
+C:\pub\web-api.pdb
+C:\pub\Microsoft.OpenApi.dll
+C:\pub\Swashbuckle.AspNetCore.Swagger.dll
+C:\pub\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\pub\Swashbuckle.AspNetCore.SwaggerUI.dll

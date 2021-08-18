@@ -1,0 +1,27 @@
+{
+    "folders": [
+        {
+            "name": "Base de Datos",
+            "path": "app-db"
+        },
+        {
+            "name": "Web API",
+            "path": "web-api"
+        },
+        {
+            "name": "Root",
+            "path": "."
+        }
+    ],
+    "extensions": {
+        "recommendations": [
+            "ms-dotnettools.csharp",
+            "ms-mssql.mssql"
+        ]
+    },
+    "settings": {
+        "editor.formatOnSave": true,
+        "editor.formatOnPaste": true,
+        "files.insertFinalNewline": true
+    }
+}
