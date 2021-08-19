@@ -27,3 +27,32 @@ C:\curso-net\web-api\obj\Debug\net5.0\web-api.dll
 C:\curso-net\web-api\obj\Debug\net5.0\ref\web-api.dll
 C:\curso-net\web-api\obj\Debug\net5.0\web-api.pdb
 C:\curso-net\web-api\obj\Debug\net5.0\web-api.genruntimeconfig.cache
+C:\Users\Gustavo Chavez\OneDrive - CREASYS S.A\Cursos Creasys\.NET\curso-net\web-api\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Gustavo Chavez\OneDrive - CREASYS S.A\Cursos Creasys\.NET\curso-net\web-api\bin\Debug\net5.0\appsettings.json
+C:\Users\Gustavo Chavez\OneDrive - CREASYS S.A\Cursos Creasys\.NET\curso-net\web-api\bin\Debug\net5.0\web-api.exe
+C:\Users\Gustavo Chavez\OneDrive - CREASYS S.A\Cursos Creasys\.NET\curso-net\web-api\bin\Debug\net5.0\web-api.deps.json
+C:\Users\Gustavo Chavez\OneDrive - CREASYS S.A\Cursos Creasys\.NET\curso-net\web-api\bin\Debug\net5.0\web-api.runtimeconfig.json
+C:\Users\Gustavo Chavez\OneDrive - CREASYS S.A\Cursos Creasys\.NET\curso-net\web-api\bin\Debug\net5.0\web-api.runtimeconfig.dev.json
+C:\Users\Gustavo Chavez\OneDrive - CREASYS S.A\Cursos Creasys\.NET\curso-net\web-api\bin\Debug\net5.0\web-api.dll
+C:\Users\Gustavo Chavez\OneDrive - CREASYS S.A\Cursos Creasys\.NET\curso-net\web-api\bin\Debug\net5.0\ref\web-api.dll
+C:\Users\Gustavo Chavez\OneDrive - CREASYS S.A\Cursos Creasys\.NET\curso-net\web-api\bin\Debug\net5.0\web-api.pdb
+C:\Users\Gustavo Chavez\OneDrive - CREASYS S.A\Cursos Creasys\.NET\curso-net\web-api\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\Gustavo Chavez\OneDrive - CREASYS S.A\Cursos Creasys\.NET\curso-net\web-api\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Gustavo Chavez\OneDrive - CREASYS S.A\Cursos Creasys\.NET\curso-net\web-api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Gustavo Chavez\OneDrive - CREASYS S.A\Cursos Creasys\.NET\curso-net\web-api\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Gustavo Chavez\OneDrive - CREASYS S.A\Cursos Creasys\.NET\curso-net\web-api\obj\Debug\net5.0\web-api.csproj.AssemblyReference.cache
+C:\Users\Gustavo Chavez\OneDrive - CREASYS S.A\Cursos Creasys\.NET\curso-net\web-api\obj\Debug\net5.0\web-api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo Chavez\OneDrive - CREASYS S.A\Cursos Creasys\.NET\curso-net\web-api\obj\Debug\net5.0\web-api.AssemblyInfoInputs.cache
+C:\Users\Gustavo Chavez\OneDrive - CREASYS S.A\Cursos Creasys\.NET\curso-net\web-api\obj\Debug\net5.0\web-api.AssemblyInfo.cs
+C:\Users\Gustavo Chavez\OneDrive - CREASYS S.A\Cursos Creasys\.NET\curso-net\web-api\obj\Debug\net5.0\web-api.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo Chavez\OneDrive - CREASYS S.A\Cursos Creasys\.NET\curso-net\web-api\obj\Debug\net5.0\web-api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Gustavo Chavez\OneDrive - CREASYS S.A\Cursos Creasys\.NET\curso-net\web-api\obj\Debug\net5.0\web-api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Gustavo Chavez\OneDrive - CREASYS S.A\Cursos Creasys\.NET\curso-net\web-api\obj\Debug\net5.0\staticwebassets\web-api.StaticWebAssets.Manifest.cache
+C:\Users\Gustavo Chavez\OneDrive - CREASYS S.A\Cursos Creasys\.NET\curso-net\web-api\obj\Debug\net5.0\staticwebassets\web-api.StaticWebAssets.xml
+C:\Users\Gustavo Chavez\OneDrive - CREASYS S.A\Cursos Creasys\.NET\curso-net\web-api\obj\Debug\net5.0\scopedcss\bundle\web-api.styles.css
+C:\Users\Gustavo Chavez\OneDrive - CREASYS S.A\Cursos Creasys\.NET\curso-net\web-api\obj\Debug\net5.0\web-api.RazorTargetAssemblyInfo.cache
+C:\Users\Gustavo Chavez\OneDrive - CREASYS S.A\Cursos Creasys\.NET\curso-net\web-api\obj\Debug\net5.0\web-api.csproj.CopyComplete
+C:\Users\Gustavo Chavez\OneDrive - CREASYS S.A\Cursos Creasys\.NET\curso-net\web-api\obj\Debug\net5.0\web-api.dll
+C:\Users\Gustavo Chavez\OneDrive - CREASYS S.A\Cursos Creasys\.NET\curso-net\web-api\obj\Debug\net5.0\ref\web-api.dll
+C:\Users\Gustavo Chavez\OneDrive - CREASYS S.A\Cursos Creasys\.NET\curso-net\web-api\obj\Debug\net5.0\web-api.pdb
+C:\Users\Gustavo Chavez\OneDrive - CREASYS S.A\Cursos Creasys\.NET\curso-net\web-api\obj\Debug\net5.0\web-api.genruntimeconfig.cache
