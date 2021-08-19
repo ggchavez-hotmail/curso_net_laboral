@@ -1,5 +1,5 @@
 using Microsoft.AspNetCore.Mvc;
-
+using Model.Cliente;
 namespace web_api.Controllers
 {
     [Route("api/[controller]")]
@@ -9,8 +9,13 @@ namespace web_api.Controllers
         [HttpGet]
         public ActionResult ObtenerClientes([FromQuery] int limite)
         {
-            string[] clientes = {"Juan", "Pepe"};
-            
+            Cliente[] clientes = {
+                new() {Nombre = "Juan", Apellidos= "Martinez", Direccion= "Calle A N° 1234", Telefono = "+56 9 2728 1232"},
+                new() {Nombre = "Pepe", Apellidos= "Martinez", Direccion= "Calle A N° 1234", Telefono = "+56 9 2728 1232"},
+                new() {Nombre = "Ana", Apellidos= "Martinez", Direccion= "Calle A N° 1234", Telefono = "+56 9 2728 1232"},
+                new() {Nombre = "Francisca", Apellidos= "Martinez", Direccion= "Calle A N° 1234", Telefono = "+56 9 2728 1232"},
+            } ;
+
             if(!clientes.Any())
                 return NotFound();
 

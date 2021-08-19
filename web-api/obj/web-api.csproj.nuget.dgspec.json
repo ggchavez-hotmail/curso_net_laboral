@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Gustavo Chavez\\OneDrive - CREASYS S.A\\Cursos Creasys\\.NET\\curso-net\\web-api\\web-api.csproj": {}
+    "/home/desarrolloweb/cursos-creasys/curso_net_laboral/web-api/web-api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Gustavo Chavez\\OneDrive - CREASYS S.A\\Cursos Creasys\\.NET\\curso-net\\web-api\\web-api.csproj": {
+    "/home/desarrolloweb/cursos-creasys/curso_net_laboral/web-api/web-api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Gustavo Chavez\\OneDrive - CREASYS S.A\\Cursos Creasys\\.NET\\curso-net\\web-api\\web-api.csproj",
+        "projectUniqueName": "/home/desarrolloweb/cursos-creasys/curso_net_laboral/web-api/web-api.csproj",
         "projectName": "web-api",
-        "projectPath": "C:\\Users\\Gustavo Chavez\\OneDrive - CREASYS S.A\\Cursos Creasys\\.NET\\curso-net\\web-api\\web-api.csproj",
-        "packagesPath": "C:\\Users\\Gustavo Chavez\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Gustavo Chavez\\OneDrive - CREASYS S.A\\Cursos Creasys\\.NET\\curso-net\\web-api\\obj\\",
+        "projectPath": "/home/desarrolloweb/cursos-creasys/curso_net_laboral/web-api/web-api.csproj",
+        "packagesPath": "/home/desarrolloweb/.nuget/packages/",
+        "outputPath": "/home/desarrolloweb/cursos-creasys/curso_net_laboral/web-api/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Gustavo Chavez\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/home/desarrolloweb/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -63,7 +61,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
         }
       }
     }
