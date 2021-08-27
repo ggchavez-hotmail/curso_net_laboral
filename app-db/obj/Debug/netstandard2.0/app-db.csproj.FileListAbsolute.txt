@@ -5,3 +5,10 @@ C:\curso-net\app-db\obj\Debug\netstandard2.0\app-db.GeneratedMSBuildEditorConfig
 C:\curso-net\app-db\obj\Debug\netstandard2.0\app-db.AssemblyInfoInputs.cache
 C:\curso-net\app-db\obj\Debug\netstandard2.0\app-db.AssemblyInfo.cs
 C:\curso-net\app-db\obj\Debug\netstandard2.0\app-db.dacpac
+C:\Users\Gustavo Chavez\OneDrive - CREASYS S.A\Cursos Creasys\.NET\curso-net\app-db\bin\Debug\netstandard2.0\app-db.deps.json
+C:\Users\Gustavo Chavez\OneDrive - CREASYS S.A\Cursos Creasys\.NET\curso-net\app-db\bin\Debug\netstandard2.0\app-db.dacpac
+C:\Users\Gustavo Chavez\OneDrive - CREASYS S.A\Cursos Creasys\.NET\curso-net\app-db\obj\Debug\netstandard2.0\app-db.csproj.AssemblyReference.cache
+C:\Users\Gustavo Chavez\OneDrive - CREASYS S.A\Cursos Creasys\.NET\curso-net\app-db\obj\Debug\netstandard2.0\app-db.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo Chavez\OneDrive - CREASYS S.A\Cursos Creasys\.NET\curso-net\app-db\obj\Debug\netstandard2.0\app-db.AssemblyInfoInputs.cache
+C:\Users\Gustavo Chavez\OneDrive - CREASYS S.A\Cursos Creasys\.NET\curso-net\app-db\obj\Debug\netstandard2.0\app-db.AssemblyInfo.cs
+C:\Users\Gustavo Chavez\OneDrive - CREASYS S.A\Cursos Creasys\.NET\curso-net\app-db\obj\Debug\netstandard2.0\app-db.dacpac

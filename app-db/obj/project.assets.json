@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\curso-net\\app-db\\app-db.csproj",
+      "projectUniqueName": "C:\\Users\\Gustavo Chavez\\OneDrive - CREASYS S.A\\Cursos Creasys\\.NET\\curso-net\\app-db\\app-db.csproj",
       "projectName": "app-db",
-      "projectPath": "C:\\curso-net\\app-db\\app-db.csproj",
+      "projectPath": "C:\\Users\\Gustavo Chavez\\OneDrive - CREASYS S.A\\Cursos Creasys\\.NET\\curso-net\\app-db\\app-db.csproj",
       "packagesPath": "C:\\Users\\Gustavo Chavez\\.nuget\\packages\\",
-      "outputPath": "C:\\curso-net\\app-db\\obj\\",
+      "outputPath": "C:\\Users\\Gustavo Chavez\\OneDrive - CREASYS S.A\\Cursos Creasys\\.NET\\curso-net\\app-db\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gustavo Chavez\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,0 +1,5 @@
+model\Cartera.sql
+model\Cliente.sql
+model\Cuenta.sql
+model\Precio.sql
+model\Produto.sql

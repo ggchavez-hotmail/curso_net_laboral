@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4pA3/NsksAlHukHSnwuZ0CiM0z4SwXIRN1cIl/c2HLPZ3qtDgHLInIBWsnQc1SxESPKe6qkCvHQn5Fjxv+c6MA==",
+  "dgSpecHash": "Gm9cS7eQ+LZY9V4cJPWuPKPxx4MqkVdoTGkUC8bSBStTRcJpIbpVH7Lup2OxMG6PA/drAVysND4HR+LcvQXAIw==",
   "success": true,
-  "projectFilePath": "C:\\curso-net\\app-db\\app-db.csproj",
+  "projectFilePath": "C:\\Users\\Gustavo Chavez\\OneDrive - CREASYS S.A\\Cursos Creasys\\.NET\\curso-net\\app-db\\app-db.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gustavo Chavez\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\Gustavo Chavez\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
