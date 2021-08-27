@@ -6,11 +6,14 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
+using web_api.Data.AppDb.Context;
+using web_api.Services;
 
 namespace web_api
 {
@@ -26,6 +29,14 @@ namespace web_api
         // This method gets called by the runtime. Use this method to add services to the container.
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddDbContext<AppdbContext>(options =>
+            options.UseSqlServer(Configuration.GetConnectionString("BasedatosConnection")));
+
+            services.AddScoped<IClienteService, ClienteService>();
+            services.AddScoped<ICarteraService, CarteraService>();
+            services.AddSingleton<ICalculoService, CalculoService>();
+
+            services.AddScoped<ITransaccionService, TransaccionService>();
 
             services.AddControllers();
             services.AddSwaggerGen(c =>
