@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
+using Microsoft.AspNetCore.Identity;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
@@ -13,6 +14,7 @@ using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Microsoft.OpenApi.Models;
 using web_api.Data.AppDb.Context;
+using web_api.Data.AuthDb.Context;
 using web_api.Services;
 
 namespace web_api
@@ -30,13 +32,37 @@ namespace web_api
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddDbContext<AppdbContext>(options =>
-            options.UseSqlServer(Configuration.GetConnectionString("BasedatosConnection")));
+               options.UseSqlServer(Configuration.GetConnectionString("BasedatosConnection")));
+
+            services.AddDbContext<AuthDbContext>(options =>
+               options.UseSqlServer(Configuration.GetConnectionString("BaseAuthConnection")));
+
+            services.AddIdentity<IdentityUser, IdentityRole>()
+               .AddEntityFrameworkStores<AuthDbContext>();
+            services.Configure<IdentityOptions>(options =>
+                {
+                    // Contraseñas
+                    options.Password.RequireDigit = true;
+                    options.Password.RequiredLength = 10;
+                    options.Password.RequireNonAlphanumeric = false;
+
+                    //  Tiempo fuera
+                    options.Lockout.DefaultLockoutTimeSpan = TimeSpan.FromMinutes(30);
+                    options.Lockout.MaxFailedAccessAttempts = 10;
+
+                    // Usuario
+                    options.User.RequireUniqueEmail = true;
+                }
+            );
 
             services.AddScoped<IClienteService, ClienteService>();
             services.AddScoped<ICarteraService, CarteraService>();
             services.AddSingleton<ICalculoService, CalculoService>();
+            services.AddScoped<IAccountService, AccountService>();
+            services.AddScoped<IAuthService, AuthService>();
 
             services.AddScoped<ITransaccionService, TransaccionService>();
+
 
             services.AddControllers();
             services.AddSwaggerGen(c =>
@@ -58,6 +84,9 @@ namespace web_api
             app.UseHttpsRedirection();
 
             app.UseRouting();
+
+            //Para usar la autenticacion con el modelo de Identity
+            app.UseAuthentication();
 
             app.UseAuthorization();
 
